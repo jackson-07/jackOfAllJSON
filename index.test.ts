@@ -1,4 +1,3 @@
-import test, { describe } from 'node:test';
 import parse, { Bracket, Separator, Token } from './index';
 
 describe('JSON Parse', () => {
